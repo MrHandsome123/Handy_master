@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/code/code_opencv/handy_master/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/opencv.dir/BackgroundRemover.cpp.obj -c D:/code/code_opencv/handy_master/Handy/BackgroundRemover.cpp",
+  "file": "D:/code/code_opencv/handy_master/Handy/BackgroundRemover.cpp"
+},
+{
+  "directory": "D:/code/code_opencv/handy_master/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/opencv.dir/FaceDetector.cpp.obj -c D:/code/code_opencv/handy_master/Handy/FaceDetector.cpp",
+  "file": "D:/code/code_opencv/handy_master/Handy/FaceDetector.cpp"
+},
+{
+  "directory": "D:/code/code_opencv/handy_master/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/opencv.dir/FingerCount.cpp.obj -c D:/code/code_opencv/handy_master/Handy/FingerCount.cpp",
+  "file": "D:/code/code_opencv/handy_master/Handy/FingerCount.cpp"
+},
+{
+  "directory": "D:/code/code_opencv/handy_master/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/opencv.dir/SkinDetector.cpp.obj -c D:/code/code_opencv/handy_master/Handy/SkinDetector.cpp",
+  "file": "D:/code/code_opencv/handy_master/Handy/SkinDetector.cpp"
+},
+{
+  "directory": "D:/code/code_opencv/handy_master/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/opencv.dir/main.cpp.obj -c D:/code/code_opencv/handy_master/Handy/main.cpp",
+  "file": "D:/code/code_opencv/handy_master/Handy/main.cpp"
+}
+]
